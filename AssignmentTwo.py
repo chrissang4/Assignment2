@@ -74,35 +74,3 @@ def atm_program():
         break
 # Running the ATM program
 atm_program()
-# # if __name__ == "__main__":
-#    atm_program()
-
-      
-        
-
-
-
-            
-
-              
-              
-
-
-           
-           
-           
-              
-
-
-
-        
-        
-           
-        
-    
-
-
-
-
-
-    
